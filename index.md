@@ -3,6 +3,8 @@ title: Joshua Wehner • Résumé
 ---
 # Joshua Wehner
 
+**[Download as a PDF](./Joshua.Wehner.Resume.pdf)**
+
 ## Contact
 **@jaw6** [http://joshuawehner.com](http://joshuawehner.com)
 
