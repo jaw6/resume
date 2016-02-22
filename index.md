@@ -42,18 +42,22 @@ title: Joshua Wehner • Résumé
 ## Employment
 
 **GitHub** • ***Developer & Trainer*** July 2013 to February 2016
+
 * Developer: internal business tools and billing systems
 * Trainer: Git & GitHub - webinars, curriculum development
 
 **LivingSocial** • ***Developer*** January 2012 to May 2013
+
 * Technical Lead, internal applications team
 * Internal applications infrastructure with Ruby on Rails, CoffeeScript
 
 **Shopify** • ***Developer*** November 2010 to January 2012
+
 * Developer: admin interface team
 * Hosted ecommerce platform in Ruby on Rails and JavaScript
 
 **Unspace** • ***Developer*** April 2009 to November 2010
+
 * Web application development in Ruby on Rails for client projects
 
 ### Language skills
